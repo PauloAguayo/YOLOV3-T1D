@@ -1,5 +1,0 @@
-classes=1
-train=data/charts_imgs.txt
-valid=data/charts_imgs.txt
-names=data/charts.names
-backup=backup/
